@@ -5,6 +5,8 @@ Created on Thu Dec  3 11:46:18 2020
 
 @author: taylorlee
 """
+check please
+
 
 import numpy as np
 import random
